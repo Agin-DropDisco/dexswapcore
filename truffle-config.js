@@ -3,6 +3,8 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const mnemonic = process.env.MNEMONIC;
+// const { TruffleProvider } = require('@harmony-js/core');
+
 
 
 
@@ -20,9 +22,18 @@ module.exports = {
       port: 8545,
       network_id: "*"
     },
-    mantleTestnet: {
-      provider: () => new HDWalletProvider(mnemonic, "https://rpc.testnet.mantle.xyz"),
-      network_id: 5001,
+    rinkeby: {
+      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/${process.env.INFURA_API_KEY}`),
+      network_id: 4,
+      gas: 0,
+      gasPrice: 2100000001, //3 Gwei,
+      skipDryRun: true
+    },
+    mumbai: {
+      provider: () => new HDWalletProvider(mnemonic, "https://polygon-testnet.public.blastapi.io"),
+      network_id: 80001,
+      gas: 0,
+      gasPrice: 2100000001, //3 Gwei,
       skipDryRun: true
     },
   },
@@ -34,6 +45,7 @@ module.exports = {
   },
 
   build: {},
+
   compilers: {
     solc: {
       version: '0.5.16',
