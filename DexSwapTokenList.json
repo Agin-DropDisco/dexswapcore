@@ -62,6 +62,47 @@
             "symbol": "ZONU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/Zonulet.png"
+        },
+
+        {
+            "address": "0x7FB56986974896ed4203857bAFf15Cb89cf082Cd",
+            "chainId": 80001,
+            "name": "DexSwapZonu",
+            "symbol": "DEZU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
+        },
+        {
+            "address": "0xE77B1Dc85edE199bf3dAA85D0958F2F966788af5",
+            "chainId": 80001,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/btc.jpg"
+        },
+        {
+            "address": "0x530BEb0F943c4f23c95473F59Fe5fa9aF3eAA5A7",
+            "chainId": 80001,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdc.jpg"
+        },
+        {
+            "address": "0x181e4AB46e2b6A6a262B1bA261ffd324BBA7C9f5",
+            "chainId": 80001,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+        },
+        {
+            "address": "0xEB82D57081e600dc4f3a0877D04f4099ed641757",
+            "chainId": 80001,
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
         }
         
     ]
