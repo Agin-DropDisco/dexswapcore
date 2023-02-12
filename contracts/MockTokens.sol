@@ -10,7 +10,7 @@ contract MockERC20 is ERC20, ERC20Detailed {
 }
 
 contract USDT is MockERC20 {
-  constructor() public ERC20Detailed("Tether USD", "USDT", 6) {}
+  constructor() public ERC20Detailed("Tether USD", "USDT", 8) {}
 }
 
 contract USDC is MockERC20 {
