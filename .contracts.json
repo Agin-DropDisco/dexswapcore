@@ -7,10 +7,10 @@
     "feeSetter": "0x0000000000000000000000000000000000000000"
   },
   "mantle_testnet": { 
-    "deployer": "0x275f1Fa4A836F6a3edb0657a7e10f3bc3FbAaa89",
-    "factory": "0x9bD7f0cB79B21E98cF92396cAB95E4D060C8BE08",
-    "feeSetter": "0x4A518C64DADDad6da516f512F12b1f6f1f2CB980",
-    "feeReceiver": "0x5c7060b3D8691F36BC4Beff78fee8b90Bc792CCA"
+    "deployer": "0x287B4f1878066fC3e30d1FFb2992E79EaC2Bb31F",
+    "factory": "0xBd93bA4cb40ec7e3B734Ba880938454A0BF91083",
+    "feeSetter": "0xAbEc61f124C6c29755E9b6d657fF31a28fe89706",
+    "feeReceiver": "0x9d6B2Ee3a441a938A7d66e787ccBE3fA14826752"
   },
   "mumbai": { 
     "deployer": "0xb365862307F66a03F7128815f10A1B5d3Ba1fE68",
