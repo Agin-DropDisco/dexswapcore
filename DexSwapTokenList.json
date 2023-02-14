@@ -79,16 +79,6 @@
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
         },
-
-
-        {
-            "address": "0x7FB56986974896ed4203857bAFf15Cb89cf082Cd",
-            "chainId": 80001,
-            "name": "DexSwapZonu",
-            "symbol": "DEZU",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
-        },
         {
             "address": "0xE77B1Dc85edE199bf3dAA85D0958F2F966788af5",
             "chainId": 80001,
