@@ -16,12 +16,36 @@
     ],
     "tokens": [
         {
-            "address": "0xAc12F7948eFdfA205Df7daD3D1Ee04E564009ECB",
+            "address": "0x707f2fE56A440E766bec41aBC9fc8695567D0ceA",
+            "chainId": 5001,
+            "name": "BIT",
+            "symbol": "BIT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswaprouter/main/mantle.png"
+        },
+        {
+            "address": "0xCab6D79dD732779f081B5868AAb1e64F357e90A9",
             "chainId": 5001,
             "name": "DexSwapZonu",
             "symbol": "DEZU",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
+        },
+        {
+            "address": "0x9C3a2429A288dBEA75C819Fd18C0b35a0C3E1361",
+            "chainId": 5001,
+            "name": "ZoNulet",
+            "symbol": "ZONU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/Zonulet.png"
+        },
+        {
+            "address": "0x8104B78e614a32ac4C5Cb54941a6B3b27143AbdB",
+            "chainId": 5001,
+            "name": "ZonuGem",
+            "symbol": "ZGEM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/zonulet-io/Zonulet-Assets/main/ZonuGem.png"
         },
         {
             "address": "0x777638AB212Fab2F1D1202DedCC7f18D2c527b50",
@@ -55,13 +79,47 @@
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
         },
+
+
         {
-            "address": "0x565F39F6B8367a67317349c97dd78B8e4224db5C",
-            "chainId": 5001,
-            "name": "ZoNulet",
-            "symbol": "ZONU",
+            "address": "0x7FB56986974896ed4203857bAFf15Cb89cf082Cd",
+            "chainId": 80001,
+            "name": "DexSwapZonu",
+            "symbol": "DEZU",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/Zonulet.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
+        },
+        {
+            "address": "0xE77B1Dc85edE199bf3dAA85D0958F2F966788af5",
+            "chainId": 80001,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/btc.jpg"
+        },
+        {
+            "address": "0x530BEb0F943c4f23c95473F59Fe5fa9aF3eAA5A7",
+            "chainId": 80001,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdc.jpg"
+        },
+        {
+            "address": "0x181e4AB46e2b6A6a262B1bA261ffd324BBA7C9f5",
+            "chainId": 80001,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+        },
+        {
+            "address": "0xEB82D57081e600dc4f3a0877D04f4099ed641757",
+            "chainId": 80001,
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
         }
         
     ]
