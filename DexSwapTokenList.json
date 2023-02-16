@@ -19,7 +19,7 @@
             "address": "0x707f2fE56A440E766bec41aBC9fc8695567D0ceA",
             "chainId": 5001,
             "name": "Wrapped BIT",
-            "symbol": "WETH",
+            "symbol": "wBIT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/mantle_logo.jpg"
         },
