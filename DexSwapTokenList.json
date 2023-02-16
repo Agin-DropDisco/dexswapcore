@@ -16,11 +16,19 @@
     ],
     "tokens": [
         {
+            "address": "0x707f2fE56A440E766bec41aBC9fc8695567D0ceA",
+            "chainId": 5001,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/mantle_logo.jpg"
+        },
+        {
             "address": "0xCab6D79dD732779f081B5868AAb1e64F357e90A9",
             "chainId": 5001,
             "name": "DexSwapZonu",
             "symbol": "DEZU",
-            "decimals": 18,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
         },
         {
@@ -71,8 +79,6 @@
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
         },
-
-
         {
             "address": "0x7FB56986974896ed4203857bAFf15Cb89cf082Cd",
             "chainId": 80001,
