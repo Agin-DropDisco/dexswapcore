@@ -1,6 +1,6 @@
 {
     "name": "DexSwap",
-    "timestamp": "2023-02-24T03:50:01.884Z",
+    "timestamp": "2023-03-24T03:50:01.884Z",
     "version": {
         "major": 6,
         "minor": 49,
@@ -14,8 +14,7 @@
         "zonulet",
         "ethereum"
     ],
-    "tokens": [
-        {
+    "tokens": [{
             "address": "0x707f2fE56A440E766bec41aBC9fc8695567D0ceA",
             "chainId": 5001,
             "name": "Wrapped Ether on Mantle",
@@ -150,6 +149,78 @@
             "symbol": "WMATIC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/matic-token.png"
+        },
+        {
+            "address": "0x48a47b30A3e6B2edeA037d57172618DF86418931",
+            "chainId": 3141,
+            "name": "ZoNulet",
+            "symbol": "ZONU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/Zonulet.png"
+        },
+        {
+            "address": "0xB871D11f15c8De5dd7245c9aaCF1e0Dd888B2b36",
+            "chainId": 3141,
+            "name": "ZoNulet Gem",
+            "symbol": "ZGEM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/zonulet-io/Zonulet-Assets/main/ZonuGem.png"
+        },
+        {
+            "address": "0xd6493381eE85CCb3590b0Fc0308b62549d5AD6C7",
+            "chainId": 3141,
+            "name": "DexSwapZonu",
+            "symbol": "DEZU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
+        },
+        {
+            "address": "0xEb40c24C1b65Ff44BD28E131f943C2b75882067C",
+            "chainId": 3141,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/btc.jpg"
+        },
+        {
+            "address": "0x9775Dc2e8513BaEbD24e323dbde04A8D5822Ef82",
+            "chainId": 3141,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdc.jpg"
+        },
+        {
+            "address": "0x4C7EB1cCff2176adBBA9812b390411ceCEB4404F",
+            "chainId": 3141,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+        },
+        {
+            "address": "0xd08810931E9b92Ca546149533Bf26D23C162E5Ac",
+            "chainId": 3141,
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
+        },
+        {
+            "address": "0x3467C3Ed08e806C12E713C3951139c29fb4946b5",
+            "chainId": 3141,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/ethereum-eth-logo.png"
+        },
+        {
+            "address": "0x59624ed081A90fBCec43D434Ec953B8E17D5ac3C",
+            "chainId": 3141,
+            "name": "MFIL",
+            "symbol": "MFIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/filecoin-fil-logo.png"
         }
     ]
-  }
+}
